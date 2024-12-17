@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43EB166A-72F3-4F6F-A953-9739E06D9887}|2024_POO1_Grafico\\2024_POO1_Grafico.csproj|C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_poo1_grafico\\model\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EB166A-72F3-4F6F-A953-9739E06D9887}|2024_POO1_Grafico\\2024_POO1_Grafico.csproj|solutionrelative:2024_poo1_grafico\\model\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9059DE4A-FFB9-4633-A9D8-8BADA4BE1076}|PaisesTests\\PaisesTests.csproj|C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\paisestests\\paisesvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9059DE4A-FFB9-4633-A9D8-8BADA4BE1076}|PaisesTests\\PaisesTests.csproj|solutionrelative:paisestests\\paisesvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HP_DESKTOP_2024_POO1_GRAFICO_2024_POO1_GRAFICO_BANCO_POO1.MDF/True/SqlTable/dbo.Paises.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BAB60E7-8F4C-4967-9A48-0363F90E818A}|EstadosTests\\EstadosTests.csproj|c:\\users\\hp\\desktop\\2024_poo1_grafico\\estadostests\\estadosvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BAB60E7-8F4C-4967-9A48-0363F90E818A}|EstadosTests\\EstadosTests.csproj|solutionrelative:estadostests\\estadosvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43EB166A-72F3-4F6F-A953-9739E06D9887}|2024_POO1_Grafico\\2024_POO1_Grafico.csproj|C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_poo1_grafico\\view\\cadastros\\frmcadastroestados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43EB166A-72F3-4F6F-A953-9739E06D9887}|2024_POO1_Grafico\\2024_POO1_Grafico.csproj|solutionrelative:2024_poo1_grafico\\view\\cadastros\\frmcadastroestados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43EB166A-72F3-4F6F-A953-9739E06D9887}|2024_POO1_Grafico\\2024_POO1_Grafico.csproj|C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_poo1_grafico\\model\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EB166A-72F3-4F6F-A953-9739E06D9887}|2024_POO1_Grafico\\2024_POO1_Grafico.csproj|solutionrelative:2024_poo1_grafico\\model\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43EB166A-72F3-4F6F-A953-9739E06D9887}|2024_POO1_Grafico\\2024_POO1_Grafico.csproj|C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_poo1_grafico\\model\\pai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43EB166A-72F3-4F6F-A953-9739E06D9887}|2024_POO1_Grafico\\2024_POO1_Grafico.csproj|solutionrelative:2024_poo1_grafico\\model\\pai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 201,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a0c5197d-0ac7-4b63-97cd-8872a789d233}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Paises [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HP_DESKTOP_2024_POO1_GRAFICO_2024_POO1_GRAFICO_BANCO_POO1.MDF/True/SqlTable/dbo.Paises.sql",
+              "ToolTip": "dbo.Paises [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-09T22:30:53.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadosValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\EstadosTests\\EstadosValidationTests.cs",
+              "RelativeDocumentMoniker": "EstadosTests\\EstadosValidationTests.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\EstadosTests\\EstadosValidationTests.cs",
+              "RelativeToolTip": "EstadosTests\\EstadosValidationTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:29:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCadastroEstados.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_POO1_Grafico\\View\\Cadastros\\frmCadastroEstados.cs",
+              "RelativeDocumentMoniker": "2024_POO1_Grafico\\View\\Cadastros\\frmCadastroEstados.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_POO1_Grafico\\View\\Cadastros\\frmCadastroEstados.cs [Design]",
+              "RelativeToolTip": "2024_POO1_Grafico\\View\\Cadastros\\frmCadastroEstados.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:43:36.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estados.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_POO1_Grafico\\Model\\Estados.cs",
+              "RelativeDocumentMoniker": "2024_POO1_Grafico\\Model\\Estados.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_POO1_Grafico\\Model\\Estados.cs",
+              "RelativeToolTip": "2024_POO1_Grafico\\Model\\Estados.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwJMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:12:35.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaisesValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\PaisesTests\\PaisesValidationTests.cs",
+              "RelativeDocumentMoniker": "PaisesTests\\PaisesValidationTests.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\PaisesTests\\PaisesValidationTests.cs",
+              "RelativeToolTip": "PaisesTests\\PaisesValidationTests.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:55:25.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pai.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_POO1_Grafico\\Model\\Pai.cs",
+              "RelativeDocumentMoniker": "2024_POO1_Grafico\\Model\\Pai.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_POO1_Grafico\\Model\\Pai.cs",
+              "RelativeToolTip": "2024_POO1_Grafico\\Model\\Pai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T21:39:40.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paises.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_POO1_Grafico\\Model\\Paises.cs",
+              "RelativeDocumentMoniker": "2024_POO1_Grafico\\Model\\Paises.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\2024_POO1_Grafico\\2024_POO1_Grafico\\Model\\Paises.cs",
+              "RelativeToolTip": "2024_POO1_Grafico\\Model\\Paises.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwCcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:56:18.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
